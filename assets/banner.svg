@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
   <title id="t">Nonstop</title>
-  <desc id="d">Nonstop: we build, launch and grow products that get big things done.</desc>
+  <desc id="d">Nonstop: bots, automation and apps that run non-stop.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1020"/>
@@ -17,5 +17,5 @@
     <circle cx="1100" cy="60" r="8" fill="#22d3ee"/>
   </g>
   <text x="70" y="140" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="url(#accent)">Nonstop</text>
-  <text x="74" y="195" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#e2e8f0">We build, launch and grow products that get big things done.</text>
+  <text x="74" y="195" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#e2e8f0">Bots, automation and apps that run non-stop.</text>
 </svg>
